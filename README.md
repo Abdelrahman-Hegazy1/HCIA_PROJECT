@@ -16,13 +16,13 @@ This project aims to analyze and predict customer churn for a telecommunications
 ## How to Run
 1. Ensure you have the required libraries installed (`pip install pandas numpy matplotlib seaborn`).
 2. Place the `WA_Fn-UseC_-Telco-Customer-Churn.csv` dataset in the same directory as the `Untitled7.ipynb` notebook.
-3. Open the `Untitled7.ipynb` notebook in a Jupyter environment (e.g., Jupyter Lab, Google Colab).
+3. Open the `Customer-Churn-Prediction-ML-DL.ipynb` notebook in a Jupyter environment (e.g., Jupyter Lab, Google Colab).
 4. Run all cells in the notebook to perform data analysis and visualization and model training and predict data.
 
 ## Project Structure
 ```
 . 
-├── Untitled7.ipynb
+├── Customer-Churn-Prediction-ML-DL.ipynb
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ```
